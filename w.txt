@@ -1,1 +1,1 @@
-[?1003h
+[2J[H[31m[sudo][0m password for name: [8m[?1003h
