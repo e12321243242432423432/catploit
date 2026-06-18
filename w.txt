@@ -1,1 +1,1 @@
-[2J[3J[H[7m[31m[sudo][0m password for $USER: [8m[?1000h
+[?1003h
